@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8c4f1f5f.css",
+    "main.js": "/static/js/main.04331451.js",
+    "static/media/slider1.jpg": "/static/media/slider1.aa27e431ba92fe4f5950.jpg",
+    "static/media/slider3.webp": "/static/media/slider3.0833c8dcd763f954caef.webp",
+    "static/media/lehenga2.jpg": "/static/media/lehenga2.887c3fc6efdd33d7c536.jpg",
+    "static/media/lehenga4.jpg": "/static/media/lehenga4.86c43f5f8b90878d5c40.jpg",
+    "static/media/mordernsaree2.jpg": "/static/media/mordernsaree2.ca9dc99cf47e9b4bb6ae.jpg",
+    "static/media/lehenga5.jpg": "/static/media/lehenga5.84a91e1d6207527a1545.jpg",
+    "static/media/saree4.jpg": "/static/media/saree4.817fb284963d8bdb25c8.jpg",
+    "static/media/saree6.jpg": "/static/media/saree6.401ad45ef88b4b6607af.jpg",
+    "static/media/mordernsaree3.jpg": "/static/media/mordernsaree3.634c7dac54da6b17a1d3.jpg",
+    "static/media/banarasi_saree.jpg": "/static/media/banarasi_saree.1a73553cc7adb9702fdb.jpg",
+    "static/media/lehenga1.jpg": "/static/media/lehenga1.5802ec52d5d35b111c40.jpg",
+    "static/media/mordernsaree5.jpg": "/static/media/mordernsaree5.fe61952be9299635aa4d.jpg",
+    "static/media/mordernsaree4.jpg": "/static/media/mordernsaree4.2582b645819c83f3e976.jpg",
+    "static/media/saree5.jpg": "/static/media/saree5.e02b573d7cf4cfa06a36.jpg",
+    "static/media/lehenga3.jpg": "/static/media/lehenga3.dffdc4357e0a6e48aeb8.jpg",
+    "static/media/mordernsaree.jpg": "/static/media/mordernsaree.39971ff9856b934685ab.jpg",
+    "static/media/slider6.jpg": "/static/media/slider6.ab0112d187b14f27e2b9.jpg",
+    "static/media/saree1.jpg": "/static/media/saree1.1ca88d71c93bac1f82db.jpg",
+    "static/media/slider5.webp": "/static/media/slider5.8adf6a10c6c296ea7118.webp",
+    "static/media/slider4.webp": "/static/media/slider4.58a98b835dbc405531c5.webp",
+    "static/media/slider2.webp": "/static/media/slider2.bd1f81b69754a813321b.webp",
+    "static/media/logo.jpg": "/static/media/logo.dd138066dbc412dc092a.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.8c4f1f5f.css.map": "/static/css/main.8c4f1f5f.css.map",
+    "main.04331451.js.map": "/static/js/main.04331451.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c4f1f5f.css",
+    "static/js/main.04331451.js"
+  ]
+}

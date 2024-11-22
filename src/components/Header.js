@@ -210,10 +210,10 @@ const Header = ({ username }) => {
             expand="lg"
             style={{
                 backgroundColor: '#EF745C',  // Fallback for older browsers
-                background: 'linear-gradient(90deg, hsla(10, 82%, 65%, 1) 0%, hsla(290, 79%, 13%, 1) 100%)',
-                background: '-moz-linear-gradient(90deg, hsla(10, 82%, 65%, 1) 0%, hsla(290, 79%, 13%, 1) 100%)',
-                background: '-webkit-linear-gradient(90deg, hsla(10, 82%, 65%, 1) 0%, hsla(290, 79%, 13%, 1) 100%)',
-                filter: 'progid: DXImageTransform.Microsoft.gradient(startColorstr="#EF745C", endColorstr="#34073D", GradientType=1)', // For IE 9 and earlier
+                // background: 'linear-gradient(90deg, hsla(10, 82%, 65%, 1) 0%, hsla(290, 79%, 13%, 1) 100%)',
+                // background: '-moz-linear-gradient(90deg, hsla(10, 82%, 65%, 1) 0%, hsla(290, 79%, 13%, 1) 100%)',
+                // background: '-webkit-linear-gradient(90deg, hsla(10, 82%, 65%, 1) 0%, hsla(290, 79%, 13%, 1) 100%)',
+                // filter: 'progid: DXImageTransform.Microsoft.gradient(startColorstr="#EF745C", endColorstr="#34073D", GradientType=1)', // For IE 9 and earlier
             }}
         >
             <Container>

@@ -62,15 +62,15 @@ import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes, useLocation } from 'react-router-dom';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import ProductList from './components/ProductList';  // Renamed from BookList
+import ProductList from './components/ProductList';  
 import About from './components/About';
 import Contact from './components/Contact';
-import ProductDetails from './components/ProductDetail';  // Renamed from BookDetails
+import ProductDetails from './components/ProductDetail';  
 import Cart from './components/Cart';
-import SareeSlider from './components/slider';  // Renamed from Slider
+import SareeSlider from './components/slider';  
 import Notification from './components/Notification';
-import Login from './components/Login'; // Assume Login page exists
-import Register from './components/Register'; // Assume Register page exists
+import Login from './components/Login'; 
+import Register from './components/Register'; 
 import './style.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { CartProvider } from './components/CartContext';
